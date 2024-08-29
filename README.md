@@ -3,7 +3,7 @@ Mini Project: Optimal IPTables Configuration for Attack Mitigation
 This project aims to design and implement the best IPTables configurations to defend against various cyber attacks. It includes analyzing threats, creating tailored rules for prevention, and ensuring system security while balancing performance and reducing false positives.
 
 **Dependencies**:
-Iptables: Version 1.8.7 or higher
+Iptables: Version 1.8.7 or higher\n
 xtables-addons-common: Version 3.19-1ubuntu1 or higher
 
 **xtables Modules**:
